@@ -1,0 +1,28 @@
+*{box-sizing: border-box;}
+.title{
+    display: block;
+    width: 300px;
+    height: 200px;
+    padding: 5px 10px 15px 15px;
+    margin: 10px 15px;
+    border: solid 5px green ;
+    border-style:solid dotted none dotted ;}
+
+   .h1 h3{padding: 50px 50px 50px 50px;}
+    
+    .block{
+        width: 550px;
+        height: 200px;
+        text-align: justify;
+    }
+    
+    .img1{
+        float: left;
+        width: 200px;
+        margin: 0px 20px 10px 0px;
+         }
+    .img2{
+        float: right;
+        width: 150px;
+        margin: 20px 0px 20px 20px;
+    }    
